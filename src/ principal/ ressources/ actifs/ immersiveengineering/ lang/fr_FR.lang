@@ -1,30 +1,30 @@
 # BLOCKS
-tile.immersiveengineering.ore.copper.name=Copper Ore
-tile.immersiveengineering.ore.aluminum.name=Bauxite Ore
-tile.immersiveengineering.ore.lead.name=Lead Ore
-tile.immersiveengineering.ore.silver.name=Silver Ore
-tile.immersiveengineering.ore.nickel.name=Nickel Ore
-tile.immersiveengineering.ore.uranium.name=Uranium Ore
+tile.immersiveengineering.ore.copper.name=Minerai de Cuivre
+tile.immersiveengineering.ore.aluminum.name=Minerai de Bauxite
+tile.immersiveengineering.ore.lead.name=Minerai de Plomb
+tile.immersiveengineering.ore.silver.name=Minerai d'Argent
+tile.immersiveengineering.ore.nickel.name=Minerai de Nickel
+tile.immersiveengineering.ore.uranium.name=Minerai d'Uranium
 
-tile.immersiveengineering.storage.copper.name=Block of Copper
-tile.immersiveengineering.storage.aluminum.name=Block of Aluminium
-tile.immersiveengineering.storage.lead.name=Block of Lead
-tile.immersiveengineering.storage.silver.name=Block of Silver
-tile.immersiveengineering.storage.nickel.name=Block of Nickel
-tile.immersiveengineering.storage.uranium.name=Block of Uranium
-tile.immersiveengineering.storage.constantan.name=Block of Constantan
-tile.immersiveengineering.storage.electrum.name=Block of Electrum
-tile.immersiveengineering.storage.steel.name=Block of Steel
+tile.immersiveengineering.storage.copper.name=Bloc de Cuivre
+tile.immersiveengineering.storage.aluminum.name=Bloc d'Aluminium
+tile.immersiveengineering.storage.lead.name=Bloc de Plomb
+tile.immersiveengineering.storage.silver.name=Bloc d'Argent
+tile.immersiveengineering.storage.nickel.name=Bloc de Nickel
+tile.immersiveengineering.storage.uranium.name=Bloc d'Uranium
+tile.immersiveengineering.storage.constantan.name=Bloc de Constantan
+tile.immersiveengineering.storage.electrum.name=Bloc d'Électrum
+tile.immersiveengineering.storage.steel.name=Bloc d'Acier
 
-tile.immersiveengineering.storage_slab.copper.name=Copper Slab
-tile.immersiveengineering.storage_slab.aluminum.name=Aluminium Slab
-tile.immersiveengineering.storage_slab.lead.name=Lead Slab
-tile.immersiveengineering.storage_slab.silver.name=Silver Slab
-tile.immersiveengineering.storage_slab.nickel.name=Nickel Slab
-tile.immersiveengineering.storage_slab.uranium.name=Uranium Slab
-tile.immersiveengineering.storage_slab.constantan.name=Constantan Slab
-tile.immersiveengineering.storage_slab.electrum.name=Electrum Slab
-tile.immersiveengineering.storage_slab.steel.name=Steel Slab
+tile.immersiveengineering.storage_slab.copper.name=Dalle de Cuivre
+tile.immersiveengineering.storage_slab.aluminum.name=Dalle d'Aluminium
+tile.immersiveengineering.storage_slab.lead.name=Dalle de plomb
+tile.immersiveengineering.storage_slab.silver.name=Dalle d'Argent
+tile.immersiveengineering.storage_slab.nickel.name=Dalle de Nickel
+tile.immersiveengineering.storage_slab.uranium.name=Dalle d'Uranium
+tile.immersiveengineering.storage_slab.constantan.name=Dalle de Constantan
+tile.immersiveengineering.storage_slab.electrum.name=Dalle d'Électrum
+tile.immersiveengineering.storage_slab.steel.name=Dalle d'Acier
 
 tile.immersiveengineering.stone_decoration.cokebrick.name=Coke Brick
 tile.immersiveengineering.stone_decoration.blastbrick.name=Blast Brick
